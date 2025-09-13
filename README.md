@@ -49,7 +49,7 @@ Each table was loaded into SQL and joined using **keys such as `order_id`, `cust
 ---
 
 # Project Report 
-You can access the complete project report here - Report
+You can access the complete project report here - [Report](https://github.com/kriti2011/Target-Case-Study/blob/main/Target_Business_Case_SQL_Kriti_Pahuja.pdf)
 
 ## ✅ Key Insights
 
